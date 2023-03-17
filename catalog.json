@@ -1,0 +1,12 @@
+{
+    "products": [
+        {
+            "id": "abc1",
+            "name": "name1",
+            "desc": "desc1",
+            "price": 321,
+            "color": "#7c95eb",
+            "image": "url"
+        }
+    ]
+}
