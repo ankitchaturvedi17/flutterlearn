@@ -1,0 +1,20 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "iphone13",
+            "desc": "apple iphone",
+            "price": 999,
+            "color": "black",
+            "url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71ZOtNdaZCL._SL1500_.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Macbook",
+            "desc": "apple macbook",
+            "price": 1999,
+            "color": "black",
+            "url": "https://m.media-amazon.com/images/W/IMAGERENDERING_521856-T1/images/I/71ZOtNdaZCL._SL1500_.jpg"
+        }
+    ]
+}
